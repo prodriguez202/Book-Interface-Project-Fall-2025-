@@ -1,5 +1,7 @@
 import java.util.List;
 
+// Abstraction -> abstract methods to get the Num of Books per genre and get total cost
+
 public interface BookInterface {
 
     List <String> allBooks();
@@ -25,3 +27,4 @@ public interface BookInterface {
     int getTotalCost();
 
 }
+
