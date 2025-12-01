@@ -1,0 +1,7 @@
+Don Quixote,Miguel de Cervantes,Fantasy,10000
+To Kill a Mockingbird,Harper Lee,Historical Fiction,3360
+Harry Potter and the Goblet of Fire,J.K. Rowling,Fantasy,7340
+Fahrenheit 451,Ray Bradbury,Sci-fi,2720,272
+Fourth Wing,Rebecca Yarros,Fantasy,610
+Name of the Wind,Patrick Rothfuss,Fantasy,8375
+A Court of Thorns and Roses,Sarah J. Maas,Fantasy,4835
